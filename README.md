@@ -117,9 +117,9 @@ onMaskPress         | null                     | Function             | Triggere
 
 Method                     | Type     |  Description
 ---------------------------|----------|-------------------
-show(text, options)        | Function | Show toast
-showSuccess(text, options) | Function | Show toast with success icon
-showLoading(text, options) | Function | Show toast with ActivityIndicator
+show(text, options)        | Function | Show a toast
+showSuccess(text, options) | Function | Show a toast with success icon
+showLoading(text, options) | Function | Show a toast with ActivityIndicator
 hide(toast)                | Function | If you don't pass toast，it will hide the last toast by default.                    
 
 **MIT Licensed**
