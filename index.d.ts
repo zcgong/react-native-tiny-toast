@@ -14,7 +14,7 @@ declare module 'react-native-tiny-toast' {
     shadow?: boolean;
     shadowColor?: string;
     showText?: boolean;
-    textColor?: boolean;
+    textColor?: string;
     textStyle?: StyleProp<TextStyle>;
     mask?: boolean;
     maskColor?: string;
